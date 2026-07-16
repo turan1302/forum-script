@@ -1,0 +1,4 @@
+[21-Jan-2022 00:21:55 Europe/Istanbul] PHP Fatal error:  Trait 'Illuminate\Auth\MustVerifyEmail' not found in /home/mfsoftwa/seyyaryazilimci.com/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php on line 14
+[24-Jan-2022 21:42:53 Europe/Istanbul] PHP Fatal error:  Cannot use App\Http\Requests\BannerRequest as BannerRequest because the name is already in use in /home/mfsoftwa/seyyaryazilimci.com/app/Http/Controllers/back/banner/indexController.php on line 7
+[24-Jan-2022 21:46:57 Europe/Istanbul] PHP Fatal error:  Cannot use App\Http\Requests\BannerRequest as BannerRequest because the name is already in use in /home/mfsoftwa/seyyaryazilimci.com/app/Http/Controllers/back/banner/indexController.php on line 7
+[24-Jan-2022 21:46:58 Europe/Istanbul] PHP Fatal error:  Cannot use App\Http\Requests\BannerRequest as BannerRequest because the name is already in use in /home/mfsoftwa/seyyaryazilimci.com/app/Http/Controllers/back/banner/indexController.php on line 7
